@@ -1,4 +1,8 @@
-# python tiene varios tipos de datos
+### 
+# python tiene varios tipos de datos, existen datos escalares 
+# que son aquellos que represetan un solo valor y no tiene subestructuras internas
+###
+
 ###
 # ejemplo: int, float, str, bool,
 #   Nonetype, list, tuple, dict, range, set ....
