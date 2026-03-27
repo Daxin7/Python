@@ -45,3 +45,11 @@ print("**********")
 mi_lista.remove(True)
 print(mi_lista)
 
+
+print("**********")
+
+# los elementos de las listas tambien podemos convertirlas a cadena de caracteres con una funcion llamada .join(), solo si todos los elementos son strings
+L1 = ["David" , "Jacome" , "Alis" , "Daxin"]
+print("-".join(L1))
+
+
