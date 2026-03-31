@@ -81,3 +81,17 @@ print("**********")
 print(mi_set2 & mi_set3)
 print("**********")
 
+# diferencia entre conjuntos
+print(mi_set2 - mi_set3)
+print("*************")
+
+print(len(mi_set2)) # -> para ver el numero de elementos dentro del conjunto
+
+print("**********")
+
+print(8 in mi_set2) # -> para comprobar si existe un elemento en especifico dentro de un conjunto
+
+print("*************")
+print(mi_set2) # -> imprimimos el conjunto
+mi_set2.add(84) # -> el '.add' aniade un elemento al conjunto
+print(mi_set2) # -> volvemos a imprimir el conjunto para comprobar los elementos
