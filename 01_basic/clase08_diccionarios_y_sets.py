@@ -93,5 +93,23 @@ print(8 in mi_set2) # -> para comprobar si existe un elemento en especifico dent
 
 print("*************")
 print(mi_set2) # -> imprimimos el conjunto
-mi_set2.add(84) # -> el '.add' aniade un elemento al conjunto
+mi_set2.add(84) # -> TODO: el '.add' aniade un elemento al conjunto
 print(mi_set2) # -> volvemos a imprimir el conjunto para comprobar los elementos
+
+print("*************")
+print(mi_set2) # -> imprimimos el conjunto
+mi_set2.remove(84) # -> TODO: el '.remove' elimina un elemento del conjunto conjunto
+print(mi_set2) # -> volvemos a imprimir el conjunto para comprobar los elementos
+
+print("*************")
+###
+# una cosa interesante que podemos hacer es la conversionde una lista a set y de set a lista
+###
+
+Lista = [1,1,1,1,2,2,2,3,3,3,4] # -> declaramos la lista
+print(Lista)# -> imprimimos la lista
+lista_a_set = set(Lista) # -> con la funcion 'set()' convertimos la lista a set y esta elimina los elementos repetidos
+print(lista_a_set)# -> imprimimos la conversion y observamos que se imprime con las llaves del set
+
+set_a_lista = list(lista_a_set) # -> ahora con la funcion 'list()' convertimos el set a lista de nuevo
+print(set_a_lista) # -> imprimos la conversion y observamos que de nuevo esta con los corchetes
