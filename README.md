@@ -1,6 +1,5 @@
 # Seguimiento del Curso de...
 **->Curso Python: De Principiante a Avanzado** perteneciente a la plataforma de Udemy
-
 ---
 # Descripción del curso
 
