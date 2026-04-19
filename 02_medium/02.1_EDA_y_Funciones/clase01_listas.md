@@ -1,10 +1,10 @@
 # ¿Qué son las listas en python?🤯
 - Es una estructura de datos que permite almacenar una coleccion de elementos.
-- A diferencia de las tuplas, las listas son mutables, es decir, son mutables despues de su creación
+- A diferencia de las tuplas, las listas son mutables después de su creación.
 - Los elementos que se pueden almacenar pueden ser diferentes, es decir, en una lista puede estar almacenado enteros, cadenas de texto, flotantes, etc.
 
 > [!NOTE] 
-> ## Creacion de listas
+> ## Creación de listas
 >
 > ```python
 > # Para crear una lista utilizamos los '[]'
@@ -27,7 +27,7 @@
 > ```
 
 > [!NOTE] 
-> ## Modificacion de los elementos
+> ## Modificación de los elementos
 > - Para modificar sus elementos de igual manera accedemos por el indice
 >
 > ```python
@@ -91,7 +91,7 @@
 
 > [!NOTE] 
 > ## Eliminar elemento según la posición
-> - Para eliminar un elemento segun la posicion usamos el metodo 'del'
+> - Para eliminar un elemento segun la posicion usamos el método 'del'
 >
 > ```python
 > # Quiero remover el valor de la posicion 1
@@ -149,7 +149,7 @@
 
 > [!NOTE] 
 > ## Transformar una cadena de caracteres a lista
-> - Para transformar una cadena de caracteres en una lista, usamos el metodo 'list()'
+> - Para transformar una cadena de caracteres en una lista, usamos el método 'list()'
 > ```python
 > # Quiero transformar la cadena de caracteres de la variable palabra
 > palabra = "David"
