@@ -106,7 +106,7 @@
 
 > [!NOTE] 
 > ## Eliminar el último elemento de una lista
-> - Para eliminar el ultimo elemento de una lista, usamos el método '.pop()'
+> - Para eliminar el último elemento de una lista, usamos el método '.pop()'
 >
 > ```python
 > # Quiero remover el ultimo elemento de la lista
