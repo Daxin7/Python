@@ -1,5 +1,5 @@
 # ¿Qué son las listas en python?🤯
-- Es una estructura de datos que permite almacenar una coleccion de elementos.
+- Es una estructura de datos que permite almacenar una colección de elementos.
 - A diferencia de las tuplas, las listas son mutables después de su creación.
 - Los elementos que se pueden almacenar pueden ser diferentes, es decir, en una lista puede estar almacenado enteros, cadenas de texto, flotantes, etc.
 
