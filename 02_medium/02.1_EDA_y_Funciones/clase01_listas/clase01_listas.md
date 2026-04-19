@@ -76,7 +76,7 @@
 > ## Eliminar elemento de una lista
 > - Para eliminar los elementos en una lista usamos el método '.remove()'
 > - El método '.remove()' elimina la primera aparición del valor que le pasemos como parámetro
-> - Si el valor no está en la lista, aparecera un error 'ValueError'.
+> - Si el valor no está en la lista, aparecerá un error 'ValueError'.
 >
 > ```python
 > # Quiero remover el valor de 2
